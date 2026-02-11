@@ -1,8 +1,3 @@
-Perfect 👌 Here is a clean, professional **README.md** file for your project.
-
-You can create a file named **README.md** in your project folder and paste this inside:
-
-```markdown
 # 📝 Console-Based ToDo App
 
 A simple console-based ToDo application built using JavaScript and Node.js.  
