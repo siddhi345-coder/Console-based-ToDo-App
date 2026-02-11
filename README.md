@@ -104,17 +104,3 @@ GitHub: [siddhi345-coder](https://github.com/siddhi345-coder)
 
 ---
 
-## 📄 License
-
-This project is open-source and free to use.
-
-````
-
----
-
-
-
-
----
-
-If you want, I can also make a **more professional portfolio-level README** with badges and better formatting 🚀
